@@ -1,4 +1,4 @@
-# email-cleaner-cli
+# data-cleaner-cli
 
 A fast, configurable CLI tool for cleaning and validating emails, phone numbers, and URLs — built in Rust.
 
@@ -14,8 +14,8 @@ A fast, configurable CLI tool for cleaning and validating emails, phone numbers,
 ## Installation
 
 ```bash
-git clone https://github.com/Esbegri/email-cleaner-cli
-cd email-cleaner-cli
+git clone https://github.com/Esbegri/data-cleaner-cli
+cd data-cleaner-cli
 cargo build --release
 ```
 
