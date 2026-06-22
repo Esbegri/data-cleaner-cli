@@ -1,9 +1,0 @@
-test@example.com
-invalid-email
-hello@world.org
-notanemail
-duplicate@test.com
-duplicate@test.com
-UPPER@CASE.COM
-  
-another@valid.net

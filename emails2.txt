@@ -1,3 +1,0 @@
-second@file.com
-invalid##email
-test@example.com
