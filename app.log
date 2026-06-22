@@ -1,0 +1,15 @@
+08:31:35 [INFO] Mode: phone
+08:31:35 [INFO] Processing file: phones.txt
+08:31:35 [WARN] Invalid entry at line 2 in phones.txt: notaphone###
+08:31:35 [WARN] Invalid entry at line 4 in phones.txt: 12345
+08:31:35 [INFO] ----------------------------------------
+08:31:35 [INFO] SUMMARY
+08:31:35 [INFO] ----------------------------------------
+08:31:35 [INFO] Total lines processed : 4
+08:31:35 [INFO] Empty lines           : 0
+08:31:35 [INFO] Valid entries (matches): 2
+08:31:35 [INFO] Valid unique entries   : 2
+08:31:35 [INFO] Invalid entries        : 2
+08:31:35 [INFO] Duplicates removed     : 0
+08:31:35 [INFO] ----------------------------------------
+08:31:35 [INFO] SUCCESS: Output written to 'clean.txt'

@@ -1,0 +1,4 @@
+{
+    "email_pattern": "^[\\w\\.\\-]+@[\\w\\.\\-]+\\.\\w+$",
+    "log_file": "app.log"
+}
